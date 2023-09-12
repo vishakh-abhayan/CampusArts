@@ -7,7 +7,7 @@ function Hero() {
         <div className="hero">
             <Navbar />
             <ParticlesBg type="circle" bg={true} />
-            <div className="hero_banner">Artestic Poly</div>
+            <div className="hero_banner">Artistic Poly</div>
             <div>
                 <button className="button-9">know more</button>
             </div>
